@@ -1,0 +1,1 @@
+PublicDB{schems[{file:STR, type: LST([<type>, <more>]), users: LST([<owner>, <co1>, …]), aut: LST(<status>, <more>); info: JSN({name: STR, description: STR})}, …]}
