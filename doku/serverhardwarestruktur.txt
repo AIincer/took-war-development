@@ -1,0 +1,28 @@
+-CCS:
+	-Programme:
+		-MS-RCAP
+		-IDB-RCAP+
+	-Funktionen:
+		-RCAP-hosting
+		-für lobby selection
+		- sonstiges
+-dbHS:
+	-Programme:
+		-SS-RCAP
+		-DB-RCAP+
+	-Funktionen:
+		-DB-hosting
+-SMcsHS:
+	-Programme:
+		-SS-RCAP
+		-java
+		-velocity
+	-Funktionen:
+		-hosten der Statischen Mcss
+-DMcsHS:
+	-Programme:
+		-SS-RCAP
+		-java
+		-velocity
+	-Funktionen:
+		-hosten der dynamischen Mcss
